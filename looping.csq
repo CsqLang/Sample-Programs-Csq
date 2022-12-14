@@ -1,0 +1,4 @@
+# for loop
+for var i : range(100) so
+  println(i)
+ends
