@@ -1,0 +1,8 @@
+// In Csq str is the class for strings but by default const char* is string representative.
+//To create a string variable we shall write:
+str s = "Hello World" 
+//Or var s = str("Hello World")
+print(s)
+//getting char at index:
+char ch = s[0] 
+//>> H
