@@ -1,0 +1,10 @@
+int i = 2
+if i == 1 so
+  print("It's 1")
+ends
+else if i == 2 so
+  print("It's 2")
+ends
+else go
+  print("It's not 1 or 2")
+ends
